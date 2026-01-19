@@ -1,0 +1,23 @@
+# Brain Tumor Segmentation using U-Net
+
+This repository contains a Jupyter Notebook implementation of an AI-based
+system for automatic brain tumor segmentation from MRI scans.
+
+## Project Overview
+The goal of this project is to support radiologists by automating the
+segmentation of brain tumors using deep learning.
+
+## Methodology
+- Image preprocessing and enhancement
+- Data augmentation
+- U-Net architecture
+- Evaluation using Dice Coefficient and IoU
+
+## Tools & Technologies
+- Python
+- TensorFlow / Keras
+- OpenCV
+- NumPy
+
+## Note
+This project is for educational purposes only.
